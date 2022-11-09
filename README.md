@@ -1,13 +1,15 @@
 # grespr-assesment
 
 
-How to run; 
+How to run:
 
 open terminal 
 locate the assesment folder 
 
-write "php -S localhost:<portname>";
+IN terminalenter following code:
+"composer update"
+"php -S localhost:8000";
 
-In browser enter the given url as localhost:<portname>;
+In browser enter the given url as localhost:8000;
 
 thankyou,
